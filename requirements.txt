@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-astra
+python-dotenv
+astrapy
